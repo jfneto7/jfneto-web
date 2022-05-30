@@ -22,7 +22,7 @@ pipeline {
 
         stage("Deploy"){
             steps{
-                sh 'echo "THE END "'
+                sh 'docker container ls'
             }
         }
     }
