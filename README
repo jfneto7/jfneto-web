@@ -1,0 +1,5 @@
+Repo created to start playing with Jenkins and Docker.
+Personal web page built on docker image (jfneto7/dockerjfneto_web), triggered via Jenkins CI/CD pipeline.
+
+Usage: 
+Add this repository URL to your Jenkins SCM entry and just start your Jenkins run.
